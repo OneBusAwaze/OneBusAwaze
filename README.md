@@ -33,8 +33,8 @@ Our team is comprised of:
 - [@veeseattle](https://github.com/veeseattle) - Vania Kurniawati - iOS Development
 - [@phodiep](https://github.com/phodiep) - Pho Diep -  iOS Development
 - [@kpham](https://github.com/kpham) - Kevin Pham - iOS Development
-- [@shiraissy](https://twitter.com/shiraissy) - Kasuke Shiraishi - UX and Design
-- [tonyip.com](http://www.tonyip.com/)Tony Ip- UX and Design
+- [@shiraissy](https://twitter.com/shiraissy) - Kosuke Shiraishi - UX and Design
+- [tonyip.com](http://www.tonyip.com/) - Tony Ip- UX and Design
 - [@cjtezak](https://github.com/cjtezak) - Chris Tezak - PM
 - [@YasharF](http://github.com/YasharF) - Yashar - PM
 - Katie Bosch - Backend Development
