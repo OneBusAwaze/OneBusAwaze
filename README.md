@@ -9,9 +9,8 @@ This application was developed on March 20-22, 2015 for the [Hack the Commute Ha
 ## Challenge and Approach
 
 The Hack The Commute challenge aims to make:
-
-  -improvements to existing applications 
-  -new tools to help commuters in any mode or modes of transportation 
+  -improvements to existing applications
+  -new tools to help commuters in any mode or modes of transportation
   -data analysis and visualizations that clarify the big picture 
 
 Our submission will improve an existing application, OneBusAway, as well as provide a new data set that can be used highlight issues with particular routes around the city over time. 
