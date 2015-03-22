@@ -47,7 +47,7 @@ We made use of:
 - OneBusAway iPhone App
 - [Parse](https://www.parse.com)
 - Future
-  - likely Azure backend
+  - likely Azure backend to lower the scaling cost.
   - Traffic data for prediction (Inrix, WSDot)
 
 ## Contributing
