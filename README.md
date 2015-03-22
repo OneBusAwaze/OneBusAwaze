@@ -43,8 +43,8 @@ We made use of:
 - Sound Transit GTFS Data feed
 - OneBusAway iPhone App
 - [Parse](https://www.parse.com)
-- Future 
-  -likely Azure backend
+- Future
+  - likely Azure backend
   - Traffic data for prediction (Inrix, WSDot)
 
 ## Contributing
