@@ -24,16 +24,16 @@ Once we did that, we knew we were guaranteed to win!
 
 Our team is comprised of:
 
-- [@bbodenmiller](https://github.com/bbodenmiller) - Backend Development
-- []() - Aaron Backend Development
-- []() - Katie Backend Development
-- [@veeseattle](https://github.com/veeseattle) - iOS Development
-- []() - Pho iOS Development
-- []() - Kevin iOS Development
-- []() - Kasuke UX and Design
-- []() - Tony UX and Design
-- [@cjtezak](https://github.com/cjtezak) - PM
-- [@YasharF](http://github.com/YasharF) - PM
+- [@bbodenmiller](https://github.com/bbodenmiller) - Ben Bodenmiller - Backend Development
+- [@](https://github.com/aaronbrethorst) - Aaron Brethorst - Backend Development
+- Katie Bosch - Backend Development
+- [@veeseattle](https://github.com/veeseattle) - Vania Kurniawati - iOS Development
+- [@phodiep](https://github.com/phodiep) - Pho Diep -  iOS Development
+- [@kpham](https://github.com/kpham) - Kevin Pham - iOS Development
+- [](https://github.com/) - Kasuke UX and Design
+- [](https://github.com/) - Tony UX and Design
+- [@cjtezak](https://github.com/cjtezak) - Chris Tezak - PM
+- [@YasharF](http://github.com/YasharF) - Yashar PM
 
 ## Technologies, APIs, and Datasets Utilized
 
