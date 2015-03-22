@@ -54,7 +54,7 @@ We made use of:
 
 In order to build and run our app:
 
-1. Check out the [GitHub Repo for our Fork!](https://github.com/OneBusAwaze/onebusaway-iphone)
+1. Check out the [GitHub Repos for our Fork, Backend, and Dashboard!](https://github.com/OneBusAwaze)
 
 
 Our code is licensed under the [Apache license](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
