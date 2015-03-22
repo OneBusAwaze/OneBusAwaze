@@ -6,19 +6,20 @@ This application was developed on March 20-22, 2015 for the [Hack the Commute Ha
 
 ![Home?!](screenshot.jpg)
 
-Our app is live at .... You can log in as the demo user . You can also check out [this demo screencast](https://none.com) of our application on YouTube.
-
 ## Challenge and Approach
 
-Our submission is for [Challenge #3: Build an app that provides an example of an Awesome Hackathon submission](http://example.com/this-also-goes-nowhere).
+The Hack The Commute challenge aims to make:
+  -improvements to existing applications 
+  -new tools to help commuters in any mode or modes of transportation 
+  -data analysis and visualizations that clarify the big picture 
+
+Our submission will improve an existing application, OneBusAway, as well as provide a new data set that can be used highlight issues with particular routes around the city over time. 
 
 Our approach for satisfying this challenge was to:
-
-- 
-- 
-- 
-
-Once we did that, we knew we were guaranteed to win!
+- Add a crowd sourced issue reporting feature to OneBusAway 
+- Add user profiles and a gamification aspect to entice users to create reports
+- Maintain historical reports and accessible backend to allow for analytics and prediction
+- Provide a dashboard to see painpoints and reports on a large scale
 
 ## Team Members
 
@@ -29,8 +30,8 @@ Our team is comprised of:
 - [@veeseattle](https://github.com/veeseattle) - Vania Kurniawati - iOS Development
 - [@phodiep](https://github.com/phodiep) - Pho Diep -  iOS Development
 - [@kpham](https://github.com/kpham) - Kevin Pham - iOS Development
-- [](https://github.com/) - Kasuke - UX and Design
-- [](https://github.com/) - Tony - UX and Design
+- [@shiraissy](https://twitter.com/shiraissy) - Kasuke Shiraishi - UX and Design
+- [tonyip.com](http://www.tonyip.com/)Tony Ip- UX and Design
 - [@cjtezak](https://github.com/cjtezak) - Chris Tezak - PM
 - [@YasharF](http://github.com/YasharF) - Yashar - PM
 - Katie Bosch - Backend Development
@@ -39,18 +40,18 @@ Our team is comprised of:
 
 We made use of:
 
-- OneBusAway API
+- Sound Transit GTFS Data feed
 - OneBusAway iPhone App
 - [Parse](https://www.parse.com)
-- 
--
+- Future 
+  -likely Azure backend
+  - Traffic data for prediction (Inrix, WSDot)
 
 ## Contributing
 
 In order to build and run our app:
 
-1. 
-2. 
-3.
+1. Check out the [GitHub Page for our Fork!](https://github.com/OneBusAwaze/onebusaway-iphone)
 
-Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
+
+Our code is licensed under the [Apache license](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
