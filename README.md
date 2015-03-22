@@ -4,7 +4,7 @@ The purpose of this app is to provide transit riders and users of OneBusAway (OB
 
 This application was developed on March 20-22, 2015 for the [Hack the Commute Hackathon](https://codeforseattle.hackpad.com/Hack-the-Commute-2h8AsgMYcB8).
 
-Our app is available for download at [downloadpage] and you can also visit our [Transit Reporting Dashboard](http://onebusawaze.github.io/onebusawaze-dashboard).
+Our app can be built from source and installed on iOS devices ahead of its push to the App Store.  You can also visit our [Transit Reporting Dashboard](http://onebusawaze.github.io/onebusawaze-dashboard).
 
 ![Home?!](screenshot.jpg)
 
