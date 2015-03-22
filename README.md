@@ -46,7 +46,7 @@ We made use of:
 
 - Sound Transit GTFS Data feed
 - Google Maps API
-  - Google Maps API Bus route
+  - Google Maps API Transit Routes
   - Google Maps API Traffic
 - OneBusAway iPhone App
 - [Parse](https://www.parse.com)
