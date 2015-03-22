@@ -6,7 +6,7 @@ This application was developed on March 20-22, 2015 for the [Hack the Commute Ha
 
 Our app can be built from source and installed on iOS devices ahead of its push to the App Store.  You can also visit our [Transit Reporting Dashboard](http://onebusawaze.github.io/onebusawaze-dashboard).
 
-![App Screenshot 1](screenshots/Info.png)[App Screenshot 2](screenshots/BusStatus.png)(screenshots/EarnedPoints.png)(screenshots/Profile.png)(screenshots/StopStatus.png)(screenshots/SubmitStatus.png)
+![App Screenshot 1](screenshots/Info.png)![App Screenshot 2](screenshots/BusStatus.png)![App Screenshot 3](screenshots/EarnedPoints.png)![App Screenshot 4](screenshots/Profile.png)![App Screenshot 5](screenshots/StopStatus.png)![App Screenshot 6](screenshots/SubmitStatus.png)
 ![Dashboard Screenshot](screenshots/dashboard-screenshot.png)
 
 
